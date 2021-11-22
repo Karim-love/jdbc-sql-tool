@@ -12,4 +12,4 @@ javaScript 기본 동작 및 jdbc 연동을 이해하고 공부하기 위해 구
 - 메인 화면 입니다.
 
 ## 2. db_connect.js
-- jdbc 접속을 구현한 js 입니다.
+- jdbc 접속을 구현한 js 입니다. 
